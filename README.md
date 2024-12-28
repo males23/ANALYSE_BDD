@@ -9,6 +9,7 @@ Sachant qu'il y a des données manquantes :
 -soit on a fait un merge avec d'autres BDD qui avait des valeurs manquantes …
 
 
+
 Donc chercher à savoir pourquoi il y a des valeurs manquantes et essayer de les remplacer.
 
 
