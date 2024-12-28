@@ -1,10 +1,15 @@
 # ANALYSE_BDD
--Gérer les valeurs manquantes d'une  base de données.
 
--Importation des librairies ou packages Python (Pandas, Nympy, Matplotlib, Seaborn) avec Jupyter Notebook. 
+PROJET 1 - Analyse de données du Titanic
 
--Importation des fichiers .csv de la base de donnnée avec Jupyter Notebook.
+Sachant qu'il ya des données manquantes : 
+-soit parce que le champs n'a pas été renseignée dans le formulaire 
+-soit on a fait un merge avec d'autres BDD qui avait des valeurs manquantes …
 
--On identifie les données d'entrée et les donnees de sortie (ici les données de sortie sont les `survived` du titanic et le reste ce sont les donnees d'entrée).
+Donc chercher à savoir pourquoi il y a des valeurs manquantes et essayer de les remplacer.
 
--On repère les valeurs manquantes (`NaN`: Not a Number)
+-Cahier de charge - Questions du client 
+1-Quelles sont les valeurs manquantes des données du titanic ???
+2-Pourquoi y a t'il des valeurs manquantes pour essayer de les remplacer ?
+3-Quelles sont les types de valeurs manquantes (numériques ou catégoriques …)
+
