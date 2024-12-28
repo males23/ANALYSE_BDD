@@ -2,7 +2,7 @@
 
 PROJET 1 - Analyse de données du Titanic
 
-Sachant qu'il ya des données manquantes : 
+Sachant qu'il y a des données manquantes : 
 
 -soit parce que le champs n'a pas été renseignée dans le formulaire 
 
