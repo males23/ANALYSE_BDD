@@ -7,4 +7,4 @@
 
 -On identifie les données d'entrée et les donnees de sortie (ici les données de sortie sont les `survived` du titanic et le reste ce sont les donnees d'entrée).
 
--On repere les valeurs manquantes (`NaN`)
+-On repère les valeurs manquantes (`NaN`)
