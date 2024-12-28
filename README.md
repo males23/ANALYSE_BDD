@@ -14,6 +14,7 @@ Donc chercher à savoir pourquoi il y a des valeurs manquantes et essayer de les
 
 
 -Cahier de charge - Questions du client 
+
 1-Quelles sont les valeurs manquantes des données du titanic ???
 
 2-Pourquoi y a t'il des valeurs manquantes pour essayer de les remplacer ?
