@@ -21,3 +21,4 @@ Donc chercher à savoir pourquoi il y a des valeurs manquantes et essayer de les
 
 3-Quelles sont les types de valeurs manquantes (numériques ou catégoriques …)
 
+https://mybinder.org/v2/gh/males23/ANALYSE_BDD/HEAD
